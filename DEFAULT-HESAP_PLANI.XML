@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<HesapPlani>
+<Hesap>
+<Kodu>120</Kodu>
+<Adi>ALICILAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>120.01</Kodu>
+<Adi>ALICILAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>153</Kodu>
+<Adi>TİCARİ MALLAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>153.01</Kodu>
+<Adi>TİCARİ MALLAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>153.01.0000</Kodu>
+<Adi>% 0 KDV TİCARİ MALLAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>153.01.0001</Kodu>
+<Adi>% 1 KDV TİCARİ MALLAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>153.01.0008</Kodu>
+<Adi>% 8 KDV TİCARİ MALLAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>153.01.0018</Kodu>
+<Adi>% 18 KDV TİCARİ MALLAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>191</Kodu>
+<Adi>İNDİRİLECEK KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>191.01</Kodu>
+<Adi>İNDİRİLECEK KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>191.01.0000</Kodu>
+<Adi>% 0 İNDİRİLECEK KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>191.01.0001</Kodu>
+<Adi>% 1 İNDİRİLECEK KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>191.01.0008</Kodu>
+<Adi>% 8 İNDİRİLECEK KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>191.01.0018</Kodu>
+<Adi>% 18 İNDİRİLECEK KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>320</Kodu>
+<Adi>SATICILAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>320.01</Kodu>
+<Adi>SATICILAR</Adi>
+</Hesap>
+<Hesap>
+<Kodu>391</Kodu>
+<Adi>HESAPLANAN KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>391.01</Kodu>
+<Adi>HESAPLANAN KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>391.01.0000</Kodu>
+<Adi>% 0 HESAPLANAN KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>391.01.0001</Kodu>
+<Adi>% 1 HESAPLANAN KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>391.01.0008</Kodu>
+<Adi>% 8 HESAPLANAN KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>391.01.0018</Kodu>
+<Adi>% 18 HESAPLANAN KDV</Adi>
+</Hesap>
+<Hesap>
+<Kodu>600</Kodu>
+<Adi>YURTİÇİ SATIŞ</Adi>
+</Hesap>
+<Hesap>
+<Kodu>600.01</Kodu>
+<Adi>YURTİÇİ SATIŞ</Adi>
+</Hesap>
+<Hesap>
+<Kodu>600.01.0000</Kodu>
+<Adi>% 0 KDV YURTİÇİ SATIŞ</Adi>
+</Hesap>
+<Hesap>
+<Kodu>600.01.0001</Kodu>
+<Adi>% 1 KDV YURTİÇİ SATIŞ</Adi>
+</Hesap>
+<Hesap>
+<Kodu>600.01.0008</Kodu>
+<Adi>% 8 KDV YURTİÇİ SATIŞ</Adi>
+</Hesap>
+<Hesap>
+<Kodu>600.01.0018</Kodu>
+<Adi>% 18 KDV YURTİÇİ SATIŞ</Adi>
+</Hesap>
+</HesapPlani>
