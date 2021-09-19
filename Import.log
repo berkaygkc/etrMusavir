@@ -308,3 +308,204 @@
 2021-09-08 11:28:03.818 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
 2021-09-08 11:28:03.820 +0300	InvoiceSeparate	0	script steps imported : 2
 2021-09-08 11:28:03.820 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:09:22.169 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of scripts from clipboard started
+2021-09-08 13:09:22.170 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Satıcı Hesap Listesi Çekme” imported as “Satıcı Hesap Listesi Çekme 2” since a script named “Satıcı Hesap Listesi Çekme” already exists.
+2021-09-08 13:09:22.179 +0300	Satıcı Hesap Listesi Çekme 2::16::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-08 13:09:22.179 +0300	Satıcı Hesap Listesi Çekme 2::24::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-08 13:09:22.184 +0300	Satıcı Hesap Listesi Çekme 2	0	script steps imported : 33
+2021-09-08 13:09:22.185 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	scripts imported : 1
+2021-09-08 13:09:22.185 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:11:17.704 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of scripts from clipboard started
+2021-09-08 13:11:17.716 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Hesap Listesi Kayıt Aç” imported as “Hesap Listesi Kayıt Aç 2” since a script named “Hesap Listesi Kayıt Aç” already exists.
+2021-09-08 13:11:17.745 +0300	Hesap Listesi Kayıt Aç 2	0	script steps imported : 46
+2021-09-08 13:11:17.766 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	scripts imported : 1
+2021-09-08 13:11:17.766 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:13:46.111 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-08 13:13:46.112 +0300	Ekstre Hesap Listesi Kayıt Aç	0	script steps imported : 1
+2021-09-08 13:13:46.112 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:13:46.354 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-08 13:13:46.355 +0300	Ekstre Hesap Listesi Kayıt Aç	0	script steps imported : 1
+2021-09-08 13:13:46.356 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:17:10.503 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-08 13:17:10.505 +0300	Tüm Hesap Listesini Cekme	0	script steps imported : 4
+2021-09-08 13:17:10.505 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:18:09.843 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-08 13:18:09.845 +0300	Tüm Hesap Listesini Cekme	0	script steps imported : 5
+2021-09-08 13:18:09.845 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-08 13:23:11.268 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-08 13:23:11.277 +0300	Cari Hesap Listesi Güncelle	0	script steps imported : 1
+2021-09-08 13:23:11.277 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-14 16:57:48.580 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-14 16:57:48.585 +0300	sql	0	script steps imported : 1
+2021-09-14 16:57:48.585 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-14 16:57:48.771 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-14 16:57:48.772 +0300	sql	0	script steps imported : 1
+2021-09-14 16:57:48.772 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 12:14:08.497 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-16 12:14:08.499 +0300	Login_SQL::9::Set Variable	106	Table referred to in the calculation “MBS( "SQL.SetConnectionOption"; $Connection; "ODBC.LIBS";  SQLServer Query::Comment)” is missing.
+2021-09-16 12:14:08.500 +0300	Login_SQL::16::Set Variable	106	Table referred to in the calculation “MBS("SQL.Connect"; $Connection; SQLServer Query::SQLConnectionString; SQLServer Query::Username; SQLServer Query::Password)” is missing.
+2021-09-16 12:14:08.501 +0300	Login_SQL	0	script steps imported : 22
+2021-09-16 12:14:08.501 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 12:16:58.238 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-16 12:16:58.239 +0300	Login_SQL	0	script steps imported : 1
+2021-09-16 12:16:58.239 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 12:38:08.473 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-16 12:38:08.474 +0300	Yeni Firma Ekle	0	script steps imported : 3
+2021-09-16 12:38:08.475 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 12:42:19.419 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-16 12:42:19.420 +0300	DB_Test	0	script steps imported : 11
+2021-09-16 12:42:19.421 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 13:06:01.882 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of scripts from clipboard started
+2021-09-16 13:06:01.882 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Firma Cari Hesap Listesi” imported as “Firma Cari Hesap Listesi 2” since a script named “Firma Cari Hesap Listesi” already exists.
+2021-09-16 13:06:01.882 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Cari Hesap Listesi Güncelle” imported as “Cari Hesap Listesi Güncelle 2” since a script named “Cari Hesap Listesi Güncelle” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Satıcı” imported as “Satıcı 2” since a script named “Satıcı” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Satıcı Hesap Listesi Çekme” imported as “Satıcı Hesap Listesi Çekme 2” since a script named “Satıcı Hesap Listesi Çekme” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Satıcı Gider Hesap Listesi Çekme” imported as “Satıcı Gider Hesap Listesi Çekme 2” since a script named “Satıcı Gider Hesap Listesi Çekme” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Alıcı” imported as “Alıcı 2” since a script named “Alıcı” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Alıcı Hesap Listesi Çekme” imported as “Alıcı Hesap Listesi Çekme 2” since a script named “Alıcı Hesap Listesi Çekme” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Yeni Kayıt” imported as “Yeni Kayıt 2” since a script named “Yeni Kayıt” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Yeni Hesap Aç” imported as “Yeni Hesap Aç 2” since a script named “Yeni Hesap Aç” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Components” imported as “Components 2” since a script named “Components” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Hesap Detayı Çek” imported as “Hesap Detayı Çek 2” since a script named “Hesap Detayı Çek” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Hesap Listesi Kayıt Aç” imported as “Hesap Listesi Kayıt Aç 2” since a script named “Hesap Listesi Kayıt Aç” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Hesap Kodları” imported as “Hesap Kodları 2” since a script named “Hesap Kodları” already exists.
+2021-09-16 13:06:01.898 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Tüm Hesap Kodlarını Ac” imported as “Tüm Hesap Kodlarını Ac 2” since a script named “Tüm Hesap Kodlarını Ac” already exists.
+2021-09-16 13:06:01.914 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Hesap Kodları” imported as “Hesap Kodları 3” since a script named “Hesap Kodları” already exists.
+2021-09-16 13:06:01.914 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Hesap Kodu Listesi Kayıt Ac” imported as “Hesap Kodu Listesi Kayıt Ac 2” since a script named “Hesap Kodu Listesi Kayıt Ac” already exists.
+2021-09-16 13:06:01.914 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Ekstre Islemleri” imported as “Ekstre Islemleri 2” since a script named “Ekstre Islemleri” already exists.
+2021-09-16 13:06:01.914 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Tüm Hesap Listesini Cekme” imported as “Tüm Hesap Listesini Cekme 2” since a script named “Tüm Hesap Listesini Cekme” already exists.
+2021-09-16 13:06:01.914 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “Ekstre Hesap Listesi Kayıt Aç” imported as “Ekstre Hesap Listesi Kayıt Aç 2” since a script named “Ekstre Hesap Listesi Kayıt Aç” already exists.
+2021-09-16 13:06:01.914 +0300	Firma Cari Hesap Listesi 2	0	script steps imported : 0
+2021-09-16 13:06:01.914 +0300	Cari Hesap Listesi Güncelle 2	0	script steps imported : 14
+2021-09-16 13:06:01.929 +0300	Satıcı 2	0	script steps imported : 0
+2021-09-16 13:06:01.929 +0300	Satıcı Hesap Listesi Çekme 2::16::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.929 +0300	Satıcı Hesap Listesi Çekme 2::24::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.929 +0300	Satıcı Hesap Listesi Çekme 2	0	script steps imported : 33
+2021-09-16 13:06:01.929 +0300	Satıcı Gider Hesap Listesi Çekme 2::16::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.929 +0300	Satıcı Gider Hesap Listesi Çekme 2::24::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.929 +0300	Satıcı Gider Hesap Listesi Çekme 2	0	script steps imported : 33
+2021-09-16 13:06:01.929 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.929 +0300	Alıcı 2	0	script steps imported : 0
+2021-09-16 13:06:01.929 +0300	Alıcı Hesap Listesi Çekme 2::16::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.929 +0300	Alıcı Hesap Listesi Çekme 2::24::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.929 +0300	Alıcı Hesap Listesi Çekme 2	0	script steps imported : 33
+2021-09-16 13:06:01.945 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.945 +0300	Yeni Kayıt 2	0	script steps imported : 0
+2021-09-16 13:06:01.945 +0300	Yeni Hesap Aç 2::14::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.945 +0300	Yeni Hesap Aç 2::18::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.945 +0300	Yeni Hesap Aç 2::39::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.945 +0300	Yeni Hesap Aç 2::49::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.945 +0300	Yeni Hesap Aç 2	0	script steps imported : 58
+2021-09-16 13:06:01.945 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.945 +0300	Components 2	0	script steps imported : 0
+2021-09-16 13:06:01.945 +0300	Hesap Detayı Çek 2::8::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.945 +0300	Hesap Detayı Çek 2	0	script steps imported : 14
+2021-09-16 13:06:01.961 +0300	Hesap Listesi Kayıt Aç 2	0	script steps imported : 46
+2021-09-16 13:06:01.961 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.961 +0300	Hesap Kodları 2	0	script steps imported : 0
+2021-09-16 13:06:01.961 +0300	Tüm Hesap Kodlarını Ac 2	0	script steps imported : 15
+2021-09-16 13:06:01.961 +0300	Hesap Kodları 3::16::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.961 +0300	Hesap Kodları 3::24::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.961 +0300	Hesap Kodları 3	0	script steps imported : 33
+2021-09-16 13:06:01.961 +0300	Hesap Kodu Listesi Kayıt Ac 2	0	script steps imported : 53
+2021-09-16 13:06:01.961 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.976 +0300	Ekstre Islemleri 2	0	script steps imported : 0
+2021-09-16 13:06:01.976 +0300	Tüm Hesap Listesini Cekme 2::20::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.976 +0300	Tüm Hesap Listesini Cekme 2::28::Insert from URL::Field	10	Attribute “id” missing.
+2021-09-16 13:06:01.976 +0300	Tüm Hesap Listesini Cekme 2	0	script steps imported : 37
+2021-09-16 13:06:01.976 +0300	Ekstre Hesap Listesi Kayıt Aç 2	0	script steps imported : 22
+2021-09-16 13:06:01.976 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.976 +0300	--	0	script steps imported : 0
+2021-09-16 13:06:01.976 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	scripts imported : 19
+2021-09-16 13:06:01.976 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 13:08:57.451 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-16 13:08:57.453 +0300	SQL Command	0	script steps imported : 11
+2021-09-16 13:08:57.453 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-16 13:09:12.743 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-16 13:09:12.744 +0300	SQL Command::10::Set Variable	106	Table referred to in the calculation “MBS("SQL.NewCommand"; $Connection; SQLServer Query::SQL)” is missing.
+2021-09-16 13:09:12.745 +0300	SQL Command	0	script steps imported : 4
+2021-09-16 13:09:12.746 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 11:09:19.420 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 11:09:19.423 +0300	SQL Command::32::Set Field	102	Field “Result” missing.
+2021-09-17 11:09:19.424 +0300	SQL Command	0	script steps imported : 17
+2021-09-17 11:09:19.424 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 20:09:43.517 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 20:09:43.518 +0300	Hesap Listesi Kayıt Aç 2	0	script steps imported : 1
+2021-09-17 20:09:43.519 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 20:12:43.956 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 20:12:43.957 +0300	Satıcı Hesap Listesi Çekme_z	0	script steps imported : 1
+2021-09-17 20:12:43.958 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 20:13:43.083 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 20:13:43.110 +0300	Satıcı Gider Hesap Listesi Çekme_z	0	script steps imported : 11
+2021-09-17 20:13:43.111 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 20:14:43.979 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 20:14:43.981 +0300	Alıcı Hesap Listesi Çekme_z	0	script steps imported : 6
+2021-09-17 20:14:43.982 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 21:30:42.063 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 21:30:42.066 +0300	Hesap Kodları 3	0	script steps imported : 6
+2021-09-17 21:30:42.066 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 21:33:35.670 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 21:33:35.673 +0300	Tüm Hesap Listesini Cekme_z	0	script steps imported : 6
+2021-09-17 21:33:35.673 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-17 21:35:42.150 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-17 21:35:42.152 +0300	Yeni Firma Kaydet	0	script steps imported : 3
+2021-09-17 21:35:42.153 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 08:51:10.699 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 08:51:10.702 +0300	Yeni Hesap Aç_z	0	script steps imported : 6
+2021-09-19 08:51:10.703 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 10:34:28.005 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of scripts from clipboard started
+2021-09-19 10:34:28.005 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Script “SQL Get Command” imported as “SQL Get Command 2” since a script named “SQL Get Command” already exists.
+2021-09-19 10:34:28.009 +0300	SQL Get Command 2	0	script steps imported : 36
+2021-09-19 10:34:28.010 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	scripts imported : 1
+2021-09-19 10:34:28.011 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 10:43:27.818 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 10:43:27.819 +0300	Yeni Hesap Aç_z	0	script steps imported : 1
+2021-09-19 10:43:27.820 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 10:43:43.031 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 10:43:43.032 +0300	Yeni Hesap Aç_z	0	script steps imported : 1
+2021-09-19 10:43:43.033 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 10:43:52.251 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 10:43:52.252 +0300	Yeni Hesap Aç_z	0	script steps imported : 1
+2021-09-19 10:43:52.252 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 10:44:04.547 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 10:44:04.548 +0300	Yeni Hesap Aç_z	0	script steps imported : 1
+2021-09-19 10:44:04.548 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 10:44:13.260 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 10:44:13.261 +0300	Yeni Hesap Aç_z	0	script steps imported : 1
+2021-09-19 10:44:13.262 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 11:05:30.551 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 11:05:30.553 +0300	Aktif Firma Degistir	0	script steps imported : 4
+2021-09-19 11:05:30.553 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 11:12:42.677 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 11:12:42.679 +0300	Acilis Scripti	0	script steps imported : 1
+2021-09-19 11:12:42.679 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 12:09:46.879 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import operations started
+2021-09-19 12:10:20.574 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of custom functions from file “etrConnect.fmp12” started
+2021-09-19 12:10:20.578 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	custom functions imported : 2
+2021-09-19 12:10:20.579 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 12:10:23.273 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import operations committed
+2021-09-19 12:10:23.274 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	==================================================================
+2021-09-19 12:11:00.959 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import operations started
+2021-09-19 12:11:13.337 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of custom functions from file “etrConnect.fmp12” started
+2021-09-19 12:11:13.339 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	custom functions imported : 1
+2021-09-19 12:11:13.340 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 12:11:15.362 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import operations committed
+2021-09-19 12:11:15.363 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	==================================================================
+2021-09-19 14:47:17.939 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 14:47:17.956 +0300	Fiş Kaydı Aç_z	0	script steps imported : 5
+2021-09-19 14:47:17.956 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 14:49:02.775 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 14:49:02.778 +0300	Kayıt ID Al	0	script steps imported : 10
+2021-09-19 14:49:02.778 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 14:59:05.236 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 14:59:05.238 +0300	Fiş Detayı Gönder_z	0	script steps imported : 2
+2021-09-19 14:59:05.238 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 15:03:36.446 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 15:03:36.447 +0300	Fis Aktar	0	script steps imported : 1
+2021-09-19 15:03:36.448 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 15:03:55.936 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 15:03:55.937 +0300	Fis Aktar	0	script steps imported : 1
+2021-09-19 15:03:55.938 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
+2021-09-19 15:29:18.131 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import of script steps from clipboard started
+2021-09-19 15:29:18.132 +0300	Fiş Detayı Gönder_z	0	script steps imported : 1
+2021-09-19 15:29:18.132 +0300	ETRMUSAVIR_v0.4.0.fmp12	0	Import completed
