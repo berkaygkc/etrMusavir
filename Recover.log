@@ -21799,3 +21799,91 @@
 2021-09-20 18:29:30.563 +0300	ETRMUSAVIR_v0.4.1.fmp12	8432	Page 15034 marked free but not in free list
 2021-09-20 18:29:30.564 +0300	ETRMUSAVIR_v0.4.1.fmp12	0	Reset maximum block sequence number to 298893870
 2021-09-20 18:29:30.565 +0300	ETRMUSAVIR_v0.4.1.fmp12	0	*** Completed consistency check, checked 15034 block(s)
+2021-09-24 10:56:26.651 +0300	ETRMUSAVIR_v0.4.2.fmp12	0	*** Started consistency check of improperly closed file, total of 2556 block(s) to check
+2021-09-24 10:56:26.685 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 1965 marked free but not in free list
+2021-09-24 10:56:26.689 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2041 marked free but not in free list
+2021-09-24 10:56:26.690 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2544 marked free but not in free list
+2021-09-24 10:56:26.691 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2545 marked free but not in free list
+2021-09-24 10:56:26.691 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2550 marked free but not in free list
+2021-09-24 10:56:26.692 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2551 marked free but not in free list
+2021-09-24 10:56:26.692 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2552 marked free but not in free list
+2021-09-24 10:56:26.693 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2553 marked free but not in free list
+2021-09-24 10:56:26.693 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2555 marked free but not in free list
+2021-09-24 10:56:26.694 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2556 marked free but not in free list
+2021-09-24 10:56:26.694 +0300	ETRMUSAVIR_v0.4.2.fmp12	0	Reset maximum block sequence number to 299722053
+2021-09-24 10:56:26.694 +0300	ETRMUSAVIR_v0.4.2.fmp12	0	*** Completed consistency check, checked 2556 block(s)
+2021-09-24 10:57:14.152 +0300	ETRMUSAVIR_v0.4.2.fmp12	0	*** Started consistency check of improperly closed file, total of 2556 block(s) to check
+2021-09-24 10:57:14.180 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 1294 marked free but not in free list
+2021-09-24 10:57:14.182 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 1538 marked free but not in free list
+2021-09-24 10:57:14.184 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 1545 marked free but not in free list
+2021-09-24 10:57:14.189 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 1965 marked free but not in free list
+2021-09-24 10:57:14.190 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2041 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2173 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2493 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2494 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2495 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2499 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2500 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2501 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2502 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2503 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2504 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2505 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2506 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2507 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2508 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2509 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2510 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2511 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2512 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2513 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2514 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2515 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2516 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2517 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2518 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2519 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2520 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2521 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2522 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2523 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2524 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2525 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2526 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2527 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2528 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2529 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2530 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2531 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2532 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2533 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2534 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2535 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2536 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2537 marked free but not in free list
+2021-09-24 10:57:14.191 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2538 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2539 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2540 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2541 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2542 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2543 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2544 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2545 marked free but not in free list
+2021-09-24 10:57:14.192 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2550 marked free but not in free list
+2021-09-24 10:57:14.193 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2551 marked free but not in free list
+2021-09-24 10:57:14.194 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2552 marked free but not in free list
+2021-09-24 10:57:14.194 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2553 marked free but not in free list
+2021-09-24 10:57:14.194 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2555 marked free but not in free list
+2021-09-24 10:57:14.195 +0300	ETRMUSAVIR_v0.4.2.fmp12	8432	Page 2556 marked free but not in free list
+2021-09-24 10:57:14.195 +0300	ETRMUSAVIR_v0.4.2.fmp12	0	Reset maximum block sequence number to 299724064
+2021-09-24 10:57:14.196 +0300	ETRMUSAVIR_v0.4.2.fmp12	0	*** Completed consistency check, checked 2556 block(s)
+2021-10-06 18:53:33.622 +0300	ETRMUSAVIR_v0.4.3.fmp12	0	*** Started consistency check of improperly closed file, total of 8442 block(s) to check
+2021-10-06 18:53:33.637 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 616 marked free but not in free list
+2021-10-06 18:53:33.737 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 6623 marked free but not in free list
+2021-10-06 18:53:33.738 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 6639 marked free but not in free list
+2021-10-06 18:53:33.755 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 8428 marked free but not in free list
+2021-10-06 18:53:33.755 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 8429 marked free but not in free list
+2021-10-06 18:53:33.756 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 8430 marked free but not in free list
+2021-10-06 18:53:33.756 +0300	ETRMUSAVIR_v0.4.3.fmp12	8432	Page 8442 marked free but not in free list
+2021-10-06 18:53:33.757 +0300	ETRMUSAVIR_v0.4.3.fmp12	0	Reset maximum block sequence number to 300964856
+2021-10-06 18:53:33.757 +0300	ETRMUSAVIR_v0.4.3.fmp12	0	*** Completed consistency check, checked 8442 block(s)
