@@ -1,0 +1,33 @@
+﻿Timestamp	Filename	Error	Message
+2021-11-04 12:10:31.587 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import operations started
+2021-11-04 12:10:31.587 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of fields from clipboard started
+2021-11-04 12:10:31.587 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_KODU_0” imported as “YURTICI_SATIS_KODU_0 2” since a field named “YURTICI_SATIS_KODU_0” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_ADI_0” imported as “YURTICI_SATIS_ADI_0 2” since a field named “YURTICI_SATIS_ADI_0” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_KODU_1” imported as “YURTICI_SATIS_KODU_1 2” since a field named “YURTICI_SATIS_KODU_1” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_KODU_8” imported as “YURTICI_SATIS_KODU_8 2” since a field named “YURTICI_SATIS_KODU_8” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_KODU_18” imported as “YURTICI_SATIS_KODU_18 2” since a field named “YURTICI_SATIS_KODU_18” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_ADI_1” imported as “YURTICI_SATIS_ADI_1 2” since a field named “YURTICI_SATIS_ADI_1” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_ADI_8” imported as “YURTICI_SATIS_ADI_8 2” since a field named “YURTICI_SATIS_ADI_8” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	Field “YURTICI_SATIS_ADI_18” imported as “YURTICI_SATIS_ADI_18 2” since a field named “YURTICI_SATIS_ADI_18” already exists.
+2021-11-04 12:10:31.625 +0300	LUCAPARAMETRELER	0	fields imported : 8
+2021-11-04 12:10:31.625 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
+2021-11-04 12:11:16.269 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import operations committed
+2021-11-04 12:11:16.269 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	==================================================================
+2021-11-04 12:13:03.772 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import operations started
+2021-11-04 12:13:03.774 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of fields from clipboard started
+2021-11-04 12:13:03.776 +0300	601HESAPKODU	0	fields imported : 3
+2021-11-04 12:13:03.776 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
+2021-11-04 12:13:48.153 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import operations committed
+2021-11-04 12:13:48.153 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	==================================================================
+2021-11-04 12:14:13.715 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of script steps from clipboard started
+2021-11-04 12:14:13.717 +0300	Tüm Hesap Kodlarını Ac	0	script steps imported : 1
+2021-11-04 12:14:13.717 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
+2021-11-04 12:14:46.974 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of script steps from clipboard started
+2021-11-04 12:14:46.975 +0300	Hesap Kodu Listesi Kayıt Ac	0	script steps imported : 2
+2021-11-04 12:14:46.975 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
+2021-11-04 12:15:07.897 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of script steps from clipboard started
+2021-11-04 12:15:07.898 +0300	Hesap Kodu Listesi Kayıt Ac	0	script steps imported : 4
+2021-11-04 12:15:07.898 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
+2021-11-04 12:18:56.055 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of script steps from clipboard started
+2021-11-04 12:18:56.058 +0300	Parametreİsmi Getir	0	script steps imported : 14
+2021-11-04 12:18:56.058 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
