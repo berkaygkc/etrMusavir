@@ -31,3 +31,155 @@
 2021-11-04 12:18:56.055 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import of script steps from clipboard started
 2021-11-04 12:18:56.058 +0300	Parametreİsmi Getir	0	script steps imported : 14
 2021-11-04 12:18:56.058 +0300	ETRMUSAVIR_v0.4.4.1.fmp12	0	Import completed
+2021-11-23 10:42:46.217 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 10:42:46.220 +0300	LUCA_All_Login	0	script steps imported : 1
+2021-11-23 10:42:46.220 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 10:57:48.003 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 10:57:48.005 +0300	LUCA_All_Login	0	script steps imported : 2
+2021-11-23 10:57:48.005 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 10:58:52.088 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 10:58:52.089 +0300	Login SSO	0	script steps imported : 3
+2021-11-23 10:58:52.089 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 11:21:58.273 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 11:21:58.275 +0300	Firma Listesi	0	script steps imported : 1
+2021-11-23 11:21:58.275 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 11:29:24.122 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import operations started
+2021-11-23 11:29:36.139 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import operations committed
+2021-11-23 11:29:36.139 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	==================================================================
+2021-11-23 11:53:21.805 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of scripts from clipboard started
+2021-11-23 11:53:21.807 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Script “Parametreİsmi Getir” imported as “Parametreİsmi Getir 2” since a script named “Parametreİsmi Getir” already exists.
+2021-11-23 11:53:21.817 +0300	Parametreİsmi Getir 2	0	script steps imported : 112
+2021-11-23 11:53:21.819 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	scripts imported : 1
+2021-11-23 11:53:21.820 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 11:57:19.438 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 11:57:19.439 +0300	Parametreİsmi Getir	0	script steps imported : 2
+2021-11-23 11:57:19.439 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 11:57:35.418 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 11:57:35.419 +0300	Parametreİsmi Getir	0	script steps imported : 2
+2021-11-23 11:57:35.420 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 11:57:48.995 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 11:57:48.996 +0300	Parametreİsmi Getir	0	script steps imported : 2
+2021-11-23 11:57:48.997 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 11:57:58.192 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 11:57:58.193 +0300	Parametreİsmi Getir	0	script steps imported : 2
+2021-11-23 11:57:58.193 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:16:52.586 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:16:52.587 +0300	AktarilmayacakToplu	0	script steps imported : 1
+2021-11-23 13:16:52.587 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:31:02.725 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:31:02.726 +0300	TopluCariTipiSec	0	script steps imported : 1
+2021-11-23 13:31:02.726 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:31:16.533 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:31:16.534 +0300	TopluCariTipiSec	0	script steps imported : 1
+2021-11-23 13:31:16.534 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:39:00.124 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:39:00.126 +0300	InvoiceSeparate	0	script steps imported : 4
+2021-11-23 13:39:00.126 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:58:18.634 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:58:18.637 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 7
+2021-11-23 13:58:18.637 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:59:33.619 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:59:33.622 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 14
+2021-11-23 13:59:33.622 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 13:59:39.478 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 13:59:39.480 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 7
+2021-11-23 13:59:39.481 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 14:41:02.359 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 14:41:02.360 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 1
+2021-11-23 14:41:02.360 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 14:55:56.550 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 14:55:56.551 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 2
+2021-11-23 14:55:56.551 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 14:57:47.285 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 14:57:47.286 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 1
+2021-11-23 14:57:47.286 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 14:58:17.611 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 14:58:17.612 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 2
+2021-11-23 14:58:17.613 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 14:58:56.881 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 14:58:56.883 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 1
+2021-11-23 14:58:56.883 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 14:58:57.769 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 14:58:57.770 +0300	TopluFaturaAktarimiKontrol	0	script steps imported : 1
+2021-11-23 14:58:57.771 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:00:45.496 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:00:45.497 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:00:45.498 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:05:51.471 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:05:51.473 +0300	TopluFaturaAktarim	0	script steps imported : 3
+2021-11-23 15:05:51.473 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:06:23.207 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:06:23.208 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:06:23.209 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:07:38.994 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:07:38.994 +0300	TopluFaturaAktarim	0	script steps imported : 2
+2021-11-23 15:07:38.994 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:08:43.659 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:08:43.660 +0300	TopluFaturaAktarim	0	script steps imported : 3
+2021-11-23 15:08:43.660 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:09:10.503 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:09:10.504 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:09:10.505 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:11:03.776 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:11:03.776 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:11:03.777 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:11:09.116 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:11:09.116 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:11:09.117 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:11:13.114 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:11:13.115 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:11:13.116 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:11:27.263 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:11:27.264 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:11:27.264 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:14:03.332 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:14:03.334 +0300	Fatura Ara	0	script steps imported : 1
+2021-11-23 15:14:03.335 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:17:57.314 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:17:57.315 +0300	InvoiceSeparate	0	script steps imported : 2
+2021-11-23 15:17:57.315 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:19:00.806 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:19:00.808 +0300	TopluFaturaAktarim	0	script steps imported : 9
+2021-11-23 15:19:00.809 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:19:28.551 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:19:28.553 +0300	TopluFaturaAktarim	0	script steps imported : 9
+2021-11-23 15:19:28.554 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:19:56.388 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:19:56.389 +0300	TopluFaturaAktarim	0	script steps imported : 2
+2021-11-23 15:19:56.389 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:20:05.052 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:20:05.053 +0300	TopluFaturaAktarim	0	script steps imported : 2
+2021-11-23 15:20:05.053 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:20:11.733 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:20:11.736 +0300	TopluFaturaAktarim	0	script steps imported : 11
+2021-11-23 15:20:11.736 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:22:48.559 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:22:48.562 +0300	TopluFaturaAktarim	0	script steps imported : 10
+2021-11-23 15:22:48.563 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:22:52.644 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:22:52.645 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:22:52.646 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:23:24.351 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:23:24.360 +0300	TopluFaturaAktarim	0	script steps imported : 60
+2021-11-23 15:23:24.360 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:24:16.019 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:24:16.027 +0300	TopluFaturaAktarim	0	script steps imported : 61
+2021-11-23 15:24:16.027 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 15:34:22.077 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 15:34:22.079 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 15:34:22.079 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 16:13:20.147 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 16:13:20.148 +0300	TopluFaturaAktarim	0	script steps imported : 2
+2021-11-23 16:13:20.149 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 18:05:17.867 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 18:05:17.869 +0300	TopluFaturaAktarim	0	script steps imported : 1
+2021-11-23 18:05:17.869 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 18:07:00.647 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 18:07:00.648 +0300	TopluFaturaAktarim	0	script steps imported : 3
+2021-11-23 18:07:00.648 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 18:09:26.113 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 18:09:26.113 +0300	Fis Icinden Faturayi Sil	0	script steps imported : 2
+2021-11-23 18:09:26.114 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
+2021-11-23 18:10:48.498 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import of script steps from clipboard started
+2021-11-23 18:10:48.514 +0300	TopluFaturaAktarim	0	script steps imported : 11
+2021-11-23 18:10:48.514 +0300	ETRMUSAVIR_v0.4.5.fmp12	0	Import completed
